@@ -1,7 +1,5 @@
-## Hi there 👋
-
-# Olá, me chamo Jonathan Xavier ! 
-## Hello, Devs!!
+## Hello, Devs!! 👋
+# Me chamo Jonathan Xavier ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente, trabalho como farmacêutico em uma Unidade Básica de Saúde (Atenção Primária) em Fortaleza-CE, após ter atuado nas áreas hospitalar e comunitária. Neste setor, tenho cerca de 12 anos de experiência e, ao longo da minha carreira, além da graduação, adquiri algumas especializações e um mestrado em Saúde Pública.
