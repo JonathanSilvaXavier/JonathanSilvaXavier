@@ -20,6 +20,14 @@ Sou apaixonado por tecnologia e estou começando minha jornada no mundo da progr
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
  
 
+🌟 **"Cada linha de código é um passo em direção ao futuro."** 🌟
+
+Fique à vontade para explorar meus repositórios e acompanhar meu aprendizado. Vamos programar juntos! 🚀
+
+
+## 📫 Como me encontrar:
+
+- **E-mail**: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
 - 📫 Como entrar em contato comigo: 	📧 :email: jonathansxavier@hotmail.com
 
 ## Outros contatos/redes:
@@ -35,3 +43,4 @@ Sou apaixonado por tecnologia e estou começando minha jornada no mundo da progr
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSilvaXavier&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanSilvaXavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
