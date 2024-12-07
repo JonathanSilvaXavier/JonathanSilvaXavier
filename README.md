@@ -29,7 +29,9 @@ Fique à vontade para explorar meus repositórios e acompanhar meu aprendizado. 
 ## 📫 Como me encontrar:
 
 - **E-mail**: [jonathansxavier@hotmail.com](jonathansxavier@hotmail.com)
-- **LinkedIn**: [Seu Perfil LinkedIn](https://linkedin.com/in/seu-perfil)  
+- **LinkedIn**:
+- **Instagram**: <div>
+<a href="https://instagram.com/jonathan_sxavier" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></div>
 - **Portfólio (em breve)**: 🚧 Trabalhando nisso!  
 
 ## Outros contatos/redes:
