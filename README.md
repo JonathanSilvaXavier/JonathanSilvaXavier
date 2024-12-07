@@ -25,7 +25,6 @@ Sou apaixonado por tecnologia e estou começando minha jornada no mundo da progr
 Fique à vontade para explorar meus repositórios e acompanhar meu aprendizado. Vamos programar juntos! 🚀
 
 
-
 ## 📫 Como me encontrar:
 
 - **E-mail**: [jonathansxavier@hotmail.com](jonathansxavier@hotmail.com)
@@ -33,13 +32,7 @@ Fique à vontade para explorar meus repositórios e acompanhar meu aprendizado. 
 - **Instagram**: <div><a href="https://instagram.com/jonathan_sxavier" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></div>
 - **Portfólio (em breve)**: 🚧 Trabalhando nisso!  
 
-## Outros contatos/redes:
-
-<div>
-<a href="https://instagram.com/jonathan_sxavier" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/Jonathan Xavier" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
+## 📊 Minhas Estatísticas
 
 <div>
 <a href="https://github.com/JonathanSilvaXavier">
