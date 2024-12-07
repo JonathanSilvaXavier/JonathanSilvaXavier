@@ -25,9 +25,10 @@ Sou apaixonado por tecnologia e estou começando minha jornada no mundo da progr
 Fique à vontade para explorar meus repositórios e acompanhar meu aprendizado. Vamos programar juntos! 🚀
 
 
+
 ## 📫 Como me encontrar:
 
-- **E-mail**: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+- **E-mail**: [seu.email@exemplo.com](jonathansxavier@hotmail.com)
 - 📫 Como entrar em contato comigo: 	📧 :email: jonathansxavier@hotmail.com
 
 ## Outros contatos/redes:
