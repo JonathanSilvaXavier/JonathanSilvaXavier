@@ -28,8 +28,9 @@ Fique à vontade para explorar meus repositórios e acompanhar meu aprendizado. 
 
 ## 📫 Como me encontrar:
 
-- **E-mail**: [seu.email@exemplo.com](jonathansxavier@hotmail.com)
-- 📫 Como entrar em contato comigo: 	📧 :email: jonathansxavier@hotmail.com
+- **E-mail**: [jonathansxavier@hotmail.com](jonathansxavier@hotmail.com)
+- **LinkedIn**: [Seu Perfil LinkedIn](https://linkedin.com/in/seu-perfil)  
+- **Portfólio (em breve)**: 🚧 Trabalhando nisso!  
 
 ## Outros contatos/redes:
 
