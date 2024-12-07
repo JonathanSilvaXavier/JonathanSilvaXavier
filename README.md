@@ -1,11 +1,31 @@
-# 🌟 Olá, eu sou [Jonathan Xavier]! Bem-vindo ao meu perfil GitHub! 👋
+# 🌟 Olá, eu sou Jonathan Xavier! Bem-vindo ao meu perfil GitHub! 👋
+
+
+Sou apaixonado por tecnologia e estou começando minha jornada no mundo da programação. Atualmente, estou aprendendo a construir páginas e aplicativos web com **HTML**, **CSS** e **JavaScript**.
+
+---
+
+## 🚀 Sobre mim:
 
 - 🔭 Atualmente, trabalho como farmacêutico em uma Unidade Básica de Saúde (Atenção Primária) em Fortaleza-CE, após ter atuado nas áreas hospitalar e comunitária. Neste setor, tenho cerca de 12 anos de experiência e, ao longo da minha carreira, além da graduação, adquiri algumas especializações e um mestrado em Saúde Pública.
 - 🌱 "Atualmente, estou me aventurando na área de programação e desenvolvimento de softwares, com o objetivo de somar esses novos conhecimentos aos que já adquiri em outra formação. Posteriormente, dependendo do meu desempenho, poderei considerar uma transição de carreira."
-- 📫 Como entrar em contato comigo: 	📧 :email: jonathansxavier@hotmail.com
+- 📚 **Estudando**: HTML, CSS e JavaScript.  
+- 🧠 **Objetivo atual**: Desenvolver habilidades para criar sites e aplicativos responsivos e interativos.  
+- 🌱 **Próximo passo**: Explorar frameworks como React e Bootstrap.  
+- 🎯 **Interesses**: Desenvolvimento Front-End, Design e Experiência do Usuário.  
+
+
+## 💻 Tecnologias que estou aprendendo:
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+
+- 📫 Como entrar em contato comigo: 	📧 :email: jonathansxavier@hotmail.com
 
 ## Outros contatos/redes:
 
