@@ -14,6 +14,7 @@ Sou apaixonado por tecnologia e estou começando minha jornada no mundo da progr
 - 🌱 **Próximo passo**: Explorar frameworks como React e Bootstrap.  
 - 🎯 **Interesses**: Desenvolvimento Front-End, Design e Experiência do Usuário.  
 
+---
 
 ## 💻 Tecnologias que estou aprendendo:
 
@@ -24,6 +25,7 @@ Sou apaixonado por tecnologia e estou começando minha jornada no mundo da progr
 
 Fique à vontade para explorar meus repositórios e acompanhar meu aprendizado. Vamos programar juntos! 🚀
 
+---
 
 ## 📫 Como me encontrar:
 
@@ -31,6 +33,8 @@ Fique à vontade para explorar meus repositórios e acompanhar meu aprendizado. 
 - **LinkedIn**: <div><a href="https://www.linkedin.com/in/Jonathan Xavier" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 - **Instagram**: <div><a href="https://instagram.com/jonathan_sxavier" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></div>
 - **Portfólio (em breve)**: 🚧 Trabalhando nisso!  
+
+---
 
 ## 📊 Minhas Estatísticas
 
