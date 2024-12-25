@@ -30,7 +30,7 @@ Fique à vontade para explorar meus repositórios e acompanhar meu aprendizado. 
 ## 📫 Como me encontrar:
 
 - **E-mail**: [jonathansxavier@hotmail.com](jonathansxavier@hotmail.com)
-- **LinkedIn**: <div><a href="https://www.linkedin.com/in/Jonathan Xavier" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+- **LinkedIn**: <div><a href="https://www.linkedin.com/in/jonathan-s-xavier" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 - **Instagram**: <div><a href="https://instagram.com/jonathan_sxavier" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></div>
 - **Portfólio (em breve)**: 🚧 Trabalhando nisso!  
 
